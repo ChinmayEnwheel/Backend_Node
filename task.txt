@@ -1,0 +1,18 @@
+Designing a Rest api/Restfull api...
+Json
+Get  /users - List all users(Html)
+Get  /api/users - List all users(Json)
+
+
+
+//Dynamic path parameter...
+Get /api/users/:id
+:id-> variables...
+
+Get /api/user/1 -Get the user with id 1
+
+Post /api/users - Create new user
+
+Patch /user/1 - Edit the user with id 1
+
+Delete /users/1 - Delete the user with id 1
